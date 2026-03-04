@@ -1,0 +1,1079 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.xctest/Contents/MacOS/OnboardingKitPackageTests",
+      "packagePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit",
+      "productName" : "OnboardingKitPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.OnboardingKit-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/sources",
+      "importPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingAdvancing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Core/OnboardingSubflow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingAnimations.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingFlow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingProgressStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OnboardingKit",
+      "moduleOutputPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKit.swiftmodule",
+      "objects" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAdvancing.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingCoordinator.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingSubflow.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAnimations.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingFlow.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingProgressStyle.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/include/OnboardingKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "onboardingkit"
+      ],
+      "outputFileMapPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAdvancing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingSubflow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAnimations.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingFlow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingProgressStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingAdvancing.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingCoordinator.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Core/OnboardingSubflow.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingAnimations.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingFlow.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingProgressStyle.swift"
+      ],
+      "tempsPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OnboardingKitCore-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/sources",
+      "importPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/InMemoryOnboardingPersistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingPersistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingSequence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingStep.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/UserDefaultsOnboardingPersistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OnboardingKitCore",
+      "moduleOutputPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitCore.swiftmodule",
+      "objects" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/include/OnboardingKitCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "onboardingkit"
+      ],
+      "outputFileMapPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/InMemoryOnboardingPersistence.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingEvent.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingPersistence.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingSequence.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingStep.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/UserDefaultsOnboardingPersistence.swift"
+      ],
+      "tempsPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OnboardingKitPackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/sources",
+      "importPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OnboardingKitPackageTests",
+      "moduleOutputPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/include/OnboardingKitPackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "onboardingkit"
+      ],
+      "outputFileMapPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OnboardingKitTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/sources",
+      "importPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingIntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/PersistenceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/TestTypes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OnboardingKitTests",
+      "moduleOutputPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitTests.swiftmodule",
+      "objects" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingCoordinatorTests.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingIntegrationTests.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/PersistenceTests.swift.o",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/TestTypes.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "onboardingkit"
+      ],
+      "outputFileMapPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingCoordinatorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingIntegrationTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/PersistenceTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/TestTypes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules/OnboardingKitTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingCoordinatorTests.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingIntegrationTests.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/PersistenceTests.swift",
+        "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/TestTypes.swift"
+      ],
+      "tempsPath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "OnboardingKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OnboardingKit",
+      "-package-name",
+      "onboardingkit",
+      "-c",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingAdvancing.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingCoordinator.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Core/OnboardingSubflow.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingAnimations.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingFlow.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingProgressStyle.swift",
+      "-I",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/include/OnboardingKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "onboardingkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OnboardingKitCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OnboardingKitCore",
+      "-package-name",
+      "onboardingkit",
+      "-c",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/InMemoryOnboardingPersistence.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingEvent.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingPersistence.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingSequence.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingStep.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/UserDefaultsOnboardingPersistence.swift",
+      "-I",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/include/OnboardingKitCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "onboardingkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OnboardingKitPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OnboardingKitPackageTests",
+      "-package-name",
+      "onboardingkit",
+      "-c",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/include/OnboardingKitPackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "onboardingkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "OnboardingKitTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "OnboardingKitTests",
+      "-package-name",
+      "onboardingkit",
+      "-c",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingCoordinatorTests.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingIntegrationTests.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/PersistenceTests.swift",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/TestTypes.swift",
+      "-I",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "onboardingkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "OnboardingKit" : [
+      "OnboardingKitCore"
+    ],
+    "OnboardingKitCore" : [
+
+    ],
+    "OnboardingKitPackageTests" : [
+      "OnboardingKitTests",
+      "OnboardingKit",
+      "OnboardingKitCore"
+    ],
+    "OnboardingKitTests" : [
+      "OnboardingKit",
+      "OnboardingKitCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingAdvancing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Coordination/OnboardingCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/Core/OnboardingSubflow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingAnimations.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingFlow.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKit/UI/OnboardingProgressStyle.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/sources"
+    },
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/InMemoryOnboardingPersistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingPersistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingSequence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingStep.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/UserDefaultsOnboardingPersistence.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/sources"
+    },
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/sources"
+    },
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAdvancing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingAnimations.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingCoordinator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingFlow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingProgressStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKit.build/OnboardingSubflow.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingCoordinatorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/OnboardingIntegrationTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/PersistenceTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/TestTypes.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/OnboardingIntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/PersistenceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Tests/OnboardingKitTests/TestTypes.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTests.build/sources"
+    },
+    "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

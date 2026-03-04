@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/master.swiftdeps"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/InMemoryOnboardingPersistence.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/InMemoryOnboardingPersistence.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingEvent.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingEvent.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingPersistence.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingPersistence.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingSequence.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingSequence.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/OnboardingStep.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/OnboardingStep.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitCore/UserDefaultsOnboardingPersistence.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitCore.build/UserDefaultsOnboardingPersistence.dia"
+  }
+}

@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		0BBFDCCA2F57F37E00D745CE /* OnboardingKit in Frameworks */ = {isa = PBXBuildFile; productRef = 0B45PKG12F57D86000537934 /* OnboardingKit */; };
+		0BBFDCCB2F57F37E00D745CE /* OnboardingKitCore in Frameworks */ = {isa = PBXBuildFile; productRef = 0B45PKG22F57D8A000537934 /* OnboardingKitCore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		0B45BDF12F57D86100537934 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +57,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BBFDCCB2F57F37E00D745CE /* OnboardingKitCore in Frameworks */,
+				0BBFDCCA2F57F37E00D745CE /* OnboardingKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +119,8 @@
 			);
 			name = HighPerformanceComplexOnboarding;
 			packageProductDependencies = (
+				0B45PKG12F57D86000537934 /* OnboardingKit */,
+				0B45PKG22F57D8A000537934 /* OnboardingKitCore */,
 			);
 			productName = HighPerformanceComplexOnboarding;
 			productReference = 0B45BDE32F57D86000537934 /* HighPerformanceComplexOnboarding.app */;
@@ -195,6 +204,9 @@
 			);
 			mainGroup = 0B45BDDA2F57D86000537934;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				0B45PKG02F57D86000537934 /* XCLocalSwiftPackageReference "OnboardingKit" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 0B45BDE42F57D86000537934 /* Products */;
 			projectDirPath = "";
@@ -400,6 +412,7 @@
 				DEVELOPMENT_TEAM = G8GZDW98G8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to show nearby places and personalize your experience.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -432,6 +445,7 @@
 				DEVELOPMENT_TEAM = G8GZDW98G8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to show nearby places and personalize your experience.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -578,6 +592,26 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		0B45PKG02F57D86000537934 /* XCLocalSwiftPackageReference "OnboardingKit" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = OnboardingKit;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		0B45PKG12F57D86000537934 /* OnboardingKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0B45PKG02F57D86000537934 /* XCLocalSwiftPackageReference "OnboardingKit" */;
+			productName = OnboardingKit;
+		};
+		0B45PKG22F57D8A000537934 /* OnboardingKitCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0B45PKG02F57D86000537934 /* XCLocalSwiftPackageReference "OnboardingKit" */;
+			productName = OnboardingKitCore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 0B45BDDB2F57D86000537934 /* Project object */;
 }

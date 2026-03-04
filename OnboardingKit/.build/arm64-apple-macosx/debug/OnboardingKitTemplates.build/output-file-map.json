@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/master.swiftdeps"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitTemplates/TemplateSequence.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateSequence.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateSequence.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateSequence.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateSequence.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitTemplates/TemplateStepIds.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateStepIds.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateStepIds.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateStepIds~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateStepIds.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateStepIds.dia"
+  },
+  "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/Sources/OnboardingKitTemplates/TemplateViewProvider.swift": {
+    "dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateViewProvider.d",
+    "object": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateViewProvider.swift.o",
+    "swiftmodule": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateViewProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateViewProvider.swiftdeps",
+    "diagnostics": "/Users/lynkto_1/Desktop/HighPerformanceComplexOnboarding/OnboardingKit/.build/arm64-apple-macosx/debug/OnboardingKitTemplates.build/TemplateViewProvider.dia"
+  }
+}
