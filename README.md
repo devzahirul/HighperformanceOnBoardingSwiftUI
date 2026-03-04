@@ -2,6 +2,12 @@
 
 > Production-grade onboarding architecture for iOS, built with SwiftUI, an enum-driven state machine, protocol-oriented persistence, and a reusable Swift Package -- **OnboardingKit**.
 
+### Watch demo
+
+[![Watch the app demo](https://img.youtube.com/vi/qbqFjROJhbI/hqdefault.jpg)](https://youtube.com/shorts/qbqFjROJhbI?si=ccheq0dMdJcgoiPd)
+
+**▶ [Play on YouTube](https://youtube.com/shorts/qbqFjROJhbI?si=ccheq0dMdJcgoiPd)** — tap the thumbnail or link to watch the app in action.
+
 ---
 
 ## Why This Project Exists
